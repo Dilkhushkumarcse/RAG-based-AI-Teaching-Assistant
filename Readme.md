@@ -205,7 +205,7 @@ This makes your AI assistant capable of deeply understanding **your teaching sty
 
 ---
 
-# 👨‍💻**Author**
+# **Author**
 
 **Dilkhush Kumar**
 
