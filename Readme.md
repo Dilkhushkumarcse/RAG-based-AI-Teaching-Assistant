@@ -202,14 +202,3 @@ This makes your AI assistant capable of deeply understanding **your teaching sty
 * Add quiz generation from videos
 * Add multi-language support
 * Integrate with Flask / FastAPI
-
----
-
-# **Author**
-
-**Dilkhush Kumar**
-
-AI/ML & Data Science Enthusiast | CSE Engineer
-Building AI Teaching Systems & RAG Models
-
----
