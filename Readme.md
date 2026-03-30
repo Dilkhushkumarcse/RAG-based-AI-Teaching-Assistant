@@ -193,12 +193,3 @@ VIDEO → MP3 → TRANSCRIPT(JSON) → EMBEDDINGS → VECTOR SEARCH → RAG PROM
 This makes your AI assistant capable of deeply understanding **your teaching style**, **your examples**, and **your explanations**.
 
 ---
-
-# **Future Improvements**
-
-* Add a web UI for chatting
-* Add timestamps & video playback links in responses
-* Use FAISS for faster vector search
-* Add quiz generation from videos
-* Add multi-language support
-* Integrate with Flask / FastAPI
